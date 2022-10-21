@@ -10,7 +10,7 @@ param5 = {
 'optimizer' : 'adam',
 'lr' : 0.001,
 'activation' : 'relu',
-'ratioTTV' : (0.70,0.15,0.10), # Ratio train,test,validation
+'ratioTTV' : (0.75,0.15,0.10), # Ratio train,test,validation
 'epoch' : 50,
 'batch_size': 15
 }
